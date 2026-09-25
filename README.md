@@ -37,6 +37,8 @@ validation-report.md  prd.md                     tested
 
 ### Plan & Design
 
+- [MySpec](https://myspec.dev) — Spec-driven development platform for authoring codebase constitutions and structured 4-file specification bundles served via MCP.
+
 | Skill | What it does | Output |
 |---|---|---|
 | [Product Planner](skills/product-planner/SKILL.md) | A structured vision-intake conversation (8 sections, AI-suggested answers throughout) followed by generation of your three core product documents: strategy & brand, a coding-agent-ready technical spec, and a phased build plan with task checkboxes. Picks up `docs/product-idea.md` automatically if it exists. | `docs/VISION.md`, `docs/product-vision.md`, `docs/prd.md`, `docs/product-roadmap.md` |
